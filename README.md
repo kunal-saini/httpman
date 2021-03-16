@@ -1,5 +1,7 @@
 # httpman
 
+<img align="right" width="150" height="200" src="https://i.imgur.com/YwWrqoz.png" alt="httpman">
+
 httpman is Lightweight and fast fluent interface wrapper over Http Client to make REST calls easier 
 
 ### Features ###
